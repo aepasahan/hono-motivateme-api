@@ -1,1 +1,4 @@
-# hono-motivateme-api
+```
+npm install
+npm run start
+```
